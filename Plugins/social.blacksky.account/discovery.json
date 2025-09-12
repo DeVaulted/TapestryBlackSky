@@ -1,0 +1,13 @@
+{
+ 	"sites": [
+ 		"blacksky.app",
+ 		"blacksky.community"
+ 	],
+ 	"url": [
+		{
+			"extract": "/https://[^/]+/profile/([^/]+)/",
+			"variable": "account",
+		}
+	]
+
+}
