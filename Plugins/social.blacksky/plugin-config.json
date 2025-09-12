@@ -5,7 +5,7 @@
 	"default_color": "blue",
 	"icon": "https://bsky.app/static/apple-touch-icon.png",
 	"item_style": "post",
-	"site": "https://blacksky.social",
+	"site": "https://blacksky.app",
 	"jwt_prompt": "Email Address",
 	"jwt_authorize": "/xrpc/com.atproto.server.createSession",
 	"jwt_refresh": "/xrpc/com.atproto.server.refreshSession",
